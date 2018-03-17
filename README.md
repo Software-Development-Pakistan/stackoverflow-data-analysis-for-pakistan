@@ -1,2 +1,2 @@
 # stackoverflow-data-analysis-for-pakistan
-Data analysis with stackoverflow survey data getting insights about pakistani development community.
+Data analysis with stackoverflow survey data getting insights about pakistani development community. All the members of Software Development Pakistan groups are welcome to add your contributions (Notebook stories, Visulizations) here. You can find datasets in the directory named 'datasets'. Add your code in the folder named 'source' and results in the folder name 'results'.
