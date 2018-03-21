@@ -58,4 +58,27 @@ function(input, output, session) {
   
   )
   
+  # job satisfaction of developers in 4 countries (not yet added to shiny)
+  
+  jobDf = so_data %>%
+           select(DeveloperType,JobSatisfaction,Country) %>%
+           filter(Country=='Pakistan' | Country=='China' | Country == 'United States' | Country == 'India') %>%
+           mutate(DeveloperType = strsplit(as.character(DeveloperType), ";")) %>% 
+           unnest(DeveloperType) %>%
+           na.omit(.) %>% 
+           mutate(DeveloperType=trimws(DeveloperType)) %>%
+           group_by(DeveloperType,Country) %>%
+           summarise_all(funs(sum))
+       
+         setDT(jobDf)
+       jobDf_melt=melt(jobDf)
+       
+       ggplot(data=jobDf_melt, aes(x=jobDf_melt$DeveloperType, y = jobDf_melt$value,fill=Country))+
+                theme(axis.text.x = element_text(face="bold", color="#993333",size=8, angle=90)) +
+                ggtitle("Job Satisfaction of Developers") +
+                geom_bar(stat="identity") +
+                xlab("Developer type") +
+                ylab("Number of Respondents") +
+                theme()
+  
 }
