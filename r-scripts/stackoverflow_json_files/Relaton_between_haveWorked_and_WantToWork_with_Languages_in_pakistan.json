@@ -1,0 +1,152 @@
+[
+  {
+    "language": "Assembly",
+    "want": 8,
+    "worked": 29
+  },
+  {
+    "language": "C",
+    "want": 27,
+    "worked": 58
+  },
+  {
+    "language": "C#",
+    "want": 87,
+    "worked": 109
+  },
+  {
+    "language": "C++",
+    "want": 36,
+    "worked": 75
+  },
+  {
+    "language": "CoffeeScript",
+    "want": 9,
+    "worked": 6
+  },
+  {
+    "language": "CommonLisp",
+    "want": 1,
+    "worked": 1
+  },
+  {
+    "language": "Dart",
+    "want": 5,
+    "worked": 1
+  },
+  {
+    "language": "Elixir",
+    "want": 8,
+    "worked": 1
+  },
+  {
+    "language": "Go",
+    "want": 28,
+    "worked": 1
+  },
+  {
+    "language": "Groovy",
+    "want": 4,
+    "worked": 5
+  },
+  {
+    "language": "Haskell",
+    "want": 4,
+    "worked": 1
+  },
+  {
+    "language": "Java",
+    "want": 105,
+    "worked": 111
+  },
+  {
+    "language": "JavaScript",
+    "want": 124,
+    "worked": 161
+  },
+  {
+    "language": "Julia",
+    "want": 1,
+    "worked": 2
+  },
+  {
+    "language": "Lua",
+    "want": 4,
+    "worked": 4
+  },
+  {
+    "language": "Matlab",
+    "want": 13,
+    "worked": 16
+  },
+  {
+    "language": "Objective-C",
+    "want": 33,
+    "worked": 21
+  },
+  {
+    "language": "Perl",
+    "want": 6,
+    "worked": 4
+  },
+  {
+    "language": "PHP",
+    "want": 72,
+    "worked": 133
+  },
+  {
+    "language": "Python",
+    "want": 87,
+    "worked": 47
+  },
+  {
+    "language": "R",
+    "want": 16,
+    "worked": 5
+  },
+  {
+    "language": "Ruby",
+    "want": 45,
+    "worked": 18
+  },
+  {
+    "language": "Scala",
+    "want": 11,
+    "worked": 5
+  },
+  {
+    "language": "Smalltalk",
+    "want": 2,
+    "worked": 1
+  },
+  {
+    "language": "SQL",
+    "want": 81,
+    "worked": 134
+  },
+  {
+    "language": "Swift",
+    "want": 45,
+    "worked": 14
+  },
+  {
+    "language": "TypeScript",
+    "want": 37,
+    "worked": 11
+  },
+  {
+    "language": "VBA",
+    "want": 1,
+    "worked": 3
+  },
+  {
+    "language": "VB.NET",
+    "want": 11,
+    "worked": 22
+  },
+  {
+    "language": "VisualBasic6",
+    "want": 6,
+    "worked": 10
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "Country": "Australia",
+    "Males": 634,
+    "Females": 40,
+    "Pay_Gap": 10737.1317
+  },
+  {
+    "Country": "Israel",
+    "Males": 346,
+    "Females": 40,
+    "Pay_Gap": 9251.1895
+  },
+  {
+    "Country": "Netherlands",
+    "Males": 598,
+    "Females": 29,
+    "Pay_Gap": 9246.5287
+  },
+  {
+    "Country": "Canada",
+    "Males": 1446,
+    "Females": 150,
+    "Pay_Gap": 8815.6772
+  },
+  {
+    "Country": "Brazil",
+    "Males": 491,
+    "Females": 25,
+    "Pay_Gap": 8303.0236
+  },
+  {
+    "Country": "Romania",
+    "Males": 362,
+    "Females": 29,
+    "Pay_Gap": 7984.4905
+  },
+  {
+    "Country": "United States",
+    "Males": 7447,
+    "Females": 847,
+    "Pay_Gap": 7472.3785
+  },
+  {
+    "Country": "United Kingdom",
+    "Males": 2954,
+    "Females": 221,
+    "Pay_Gap": 6837.036
+  },
+  {
+    "Country": "Spain",
+    "Males": 518,
+    "Females": 41,
+    "Pay_Gap": 6231.8437
+  },
+  {
+    "Country": "France",
+    "Males": 1094,
+    "Females": 64,
+    "Pay_Gap": 5134.0087
+  },
+  {
+    "Country": "Poland",
+    "Males": 806,
+    "Females": 98,
+    "Pay_Gap": 4981.3313
+  },
+  {
+    "Country": "India",
+    "Males": 2422,
+    "Females": 230,
+    "Pay_Gap": 4882.4146
+  },
+  {
+    "Country": "Switzerland",
+    "Males": 398,
+    "Females": 13,
+    "Pay_Gap": 4543.6383
+  },
+  {
+    "Country": "Italy",
+    "Males": 515,
+    "Females": 16,
+    "Pay_Gap": 4349.3793
+  },
+  {
+    "Country": "Russian Federation",
+    "Males": 542,
+    "Females": 31,
+    "Pay_Gap": 2943.8532
+  },
+  {
+    "Country": "Pakistan",
+    "Males": 231,
+    "Females": 15,
+    "Pay_Gap": 2832.3967
+  },
+  {
+    "Country": "Iran",
+    "Males": 260,
+    "Females": 13,
+    "Pay_Gap": 2130.0627
+  },
+  {
+    "Country": "Germany",
+    "Males": 2740,
+    "Females": 153,
+    "Pay_Gap": 2116.6578
+  },
+  {
+    "Country": "Austria",
+    "Males": 322,
+    "Females": 23,
+    "Pay_Gap": 1529.8644
+  },
+  {
+    "Country": "Sweden",
+    "Males": 418,
+    "Females": 18,
+    "Pay_Gap": 1270.0568
+  }
+]

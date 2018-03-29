@@ -1,0 +1,282 @@
+[
+  {
+    "DeveloperType": "Database administrator",
+    "Country": "China",
+    "JobSatisfaction": 95
+  },
+  {
+    "DeveloperType": "Database administrator",
+    "Country": "India",
+    "JobSatisfaction": 2391
+  },
+  {
+    "DeveloperType": "Database administrator",
+    "Country": "Pakistan",
+    "JobSatisfaction": 359
+  },
+  {
+    "DeveloperType": "Database administrator",
+    "Country": "United States",
+    "JobSatisfaction": 8258
+  },
+  {
+    "DeveloperType": "Data scientist",
+    "Country": "China",
+    "JobSatisfaction": 101
+  },
+  {
+    "DeveloperType": "Data scientist",
+    "Country": "India",
+    "JobSatisfaction": 1452
+  },
+  {
+    "DeveloperType": "Data scientist",
+    "Country": "Pakistan",
+    "JobSatisfaction": 160
+  },
+  {
+    "DeveloperType": "Data scientist",
+    "Country": "United States",
+    "JobSatisfaction": 4955
+  },
+  {
+    "DeveloperType": "Desktop applications developer",
+    "Country": "China",
+    "JobSatisfaction": 223
+  },
+  {
+    "DeveloperType": "Desktop applications developer",
+    "Country": "India",
+    "JobSatisfaction": 3731
+  },
+  {
+    "DeveloperType": "Desktop applications developer",
+    "Country": "Pakistan",
+    "JobSatisfaction": 570
+  },
+  {
+    "DeveloperType": "Desktop applications developer",
+    "Country": "United States",
+    "JobSatisfaction": 15897
+  },
+  {
+    "DeveloperType": "Developer with a statistics or mathematics background",
+    "Country": "China",
+    "JobSatisfaction": 114
+  },
+  {
+    "DeveloperType": "Developer with a statistics or mathematics background",
+    "Country": "India",
+    "JobSatisfaction": 2145
+  },
+  {
+    "DeveloperType": "Developer with a statistics or mathematics background",
+    "Country": "Pakistan",
+    "JobSatisfaction": 250
+  },
+  {
+    "DeveloperType": "Developer with a statistics or mathematics background",
+    "Country": "United States",
+    "JobSatisfaction": 6799
+  },
+  {
+    "DeveloperType": "DevOps specialist",
+    "Country": "China",
+    "JobSatisfaction": 117
+  },
+  {
+    "DeveloperType": "DevOps specialist",
+    "Country": "India",
+    "JobSatisfaction": 1250
+  },
+  {
+    "DeveloperType": "DevOps specialist",
+    "Country": "Pakistan",
+    "JobSatisfaction": 116
+  },
+  {
+    "DeveloperType": "DevOps specialist",
+    "Country": "United States",
+    "JobSatisfaction": 7407
+  },
+  {
+    "DeveloperType": "Embedded applications/devices developer",
+    "Country": "China",
+    "JobSatisfaction": 93
+  },
+  {
+    "DeveloperType": "Embedded applications/devices developer",
+    "Country": "India",
+    "JobSatisfaction": 1087
+  },
+  {
+    "DeveloperType": "Embedded applications/devices developer",
+    "Country": "Pakistan",
+    "JobSatisfaction": 77
+  },
+  {
+    "DeveloperType": "Embedded applications/devices developer",
+    "Country": "United States",
+    "JobSatisfaction": 5054
+  },
+  {
+    "DeveloperType": "Graphic designer",
+    "Country": "China",
+    "JobSatisfaction": 22
+  },
+  {
+    "DeveloperType": "Graphic designer",
+    "Country": "India",
+    "JobSatisfaction": 859
+  },
+  {
+    "DeveloperType": "Graphic designer",
+    "Country": "Pakistan",
+    "JobSatisfaction": 179
+  },
+  {
+    "DeveloperType": "Graphic designer",
+    "Country": "United States",
+    "JobSatisfaction": 1938
+  },
+  {
+    "DeveloperType": "Graphics programming",
+    "Country": "China",
+    "JobSatisfaction": 66
+  },
+  {
+    "DeveloperType": "Graphics programming",
+    "Country": "India",
+    "JobSatisfaction": 484
+  },
+  {
+    "DeveloperType": "Graphics programming",
+    "Country": "Pakistan",
+    "JobSatisfaction": 111
+  },
+  {
+    "DeveloperType": "Graphics programming",
+    "Country": "United States",
+    "JobSatisfaction": 2321
+  },
+  {
+    "DeveloperType": "Machine learning specialist",
+    "Country": "China",
+    "JobSatisfaction": 40
+  },
+  {
+    "DeveloperType": "Machine learning specialist",
+    "Country": "India",
+    "JobSatisfaction": 711
+  },
+  {
+    "DeveloperType": "Machine learning specialist",
+    "Country": "Pakistan",
+    "JobSatisfaction": 81
+  },
+  {
+    "DeveloperType": "Machine learning specialist",
+    "Country": "United States",
+    "JobSatisfaction": 2162
+  },
+  {
+    "DeveloperType": "Mobile developer",
+    "Country": "China",
+    "JobSatisfaction": 206
+  },
+  {
+    "DeveloperType": "Mobile developer",
+    "Country": "India",
+    "JobSatisfaction": 6600
+  },
+  {
+    "DeveloperType": "Mobile developer",
+    "Country": "Pakistan",
+    "JobSatisfaction": 775
+  },
+  {
+    "DeveloperType": "Mobile developer",
+    "Country": "United States",
+    "JobSatisfaction": 11007
+  },
+  {
+    "DeveloperType": "Other",
+    "Country": "China",
+    "JobSatisfaction": 40
+  },
+  {
+    "DeveloperType": "Other",
+    "Country": "India",
+    "JobSatisfaction": 933
+  },
+  {
+    "DeveloperType": "Other",
+    "Country": "Pakistan",
+    "JobSatisfaction": 62
+  },
+  {
+    "DeveloperType": "Other",
+    "Country": "United States",
+    "JobSatisfaction": 6196
+  },
+  {
+    "DeveloperType": "Quality assurance engineer",
+    "Country": "China",
+    "JobSatisfaction": 23
+  },
+  {
+    "DeveloperType": "Quality assurance engineer",
+    "Country": "India",
+    "JobSatisfaction": 679
+  },
+  {
+    "DeveloperType": "Quality assurance engineer",
+    "Country": "Pakistan",
+    "JobSatisfaction": 105
+  },
+  {
+    "DeveloperType": "Quality assurance engineer",
+    "Country": "United States",
+    "JobSatisfaction": 2362
+  },
+  {
+    "DeveloperType": "Systems administrator",
+    "Country": "China",
+    "JobSatisfaction": 98
+  },
+  {
+    "DeveloperType": "Systems administrator",
+    "Country": "India",
+    "JobSatisfaction": 1053
+  },
+  {
+    "DeveloperType": "Systems administrator",
+    "Country": "Pakistan",
+    "JobSatisfaction": 131
+  },
+  {
+    "DeveloperType": "Systems administrator",
+    "Country": "United States",
+    "JobSatisfaction": 6582
+  },
+  {
+    "DeveloperType": "Web developer",
+    "Country": "China",
+    "JobSatisfaction": 702
+  },
+  {
+    "DeveloperType": "Web developer",
+    "Country": "India",
+    "JobSatisfaction": 14604
+  },
+  {
+    "DeveloperType": "Web developer",
+    "Country": "Pakistan",
+    "JobSatisfaction": 1516
+  },
+  {
+    "DeveloperType": "Web developer",
+    "Country": "United States",
+    "JobSatisfaction": 41856
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "Country": "Australia",
+    "Males": 634,
+    "Females": 40,
+    "Ratio_of_female_devs_percentage": 5.9347
+  },
+  {
+    "Country": "Israel",
+    "Males": 346,
+    "Females": 40,
+    "Ratio_of_female_devs_percentage": 10.3627
+  },
+  {
+    "Country": "Netherlands",
+    "Males": 598,
+    "Females": 29,
+    "Ratio_of_female_devs_percentage": 4.6252
+  },
+  {
+    "Country": "Canada",
+    "Males": 1446,
+    "Females": 150,
+    "Ratio_of_female_devs_percentage": 9.3985
+  },
+  {
+    "Country": "Brazil",
+    "Males": 491,
+    "Females": 25,
+    "Ratio_of_female_devs_percentage": 4.845
+  },
+  {
+    "Country": "Romania",
+    "Males": 362,
+    "Females": 29,
+    "Ratio_of_female_devs_percentage": 7.4169
+  },
+  {
+    "Country": "United States",
+    "Males": 7447,
+    "Females": 847,
+    "Ratio_of_female_devs_percentage": 10.2122
+  },
+  {
+    "Country": "United Kingdom",
+    "Males": 2954,
+    "Females": 221,
+    "Ratio_of_female_devs_percentage": 6.9606
+  },
+  {
+    "Country": "Spain",
+    "Males": 518,
+    "Females": 41,
+    "Ratio_of_female_devs_percentage": 7.3345
+  },
+  {
+    "Country": "France",
+    "Males": 1094,
+    "Females": 64,
+    "Ratio_of_female_devs_percentage": 5.5268
+  },
+  {
+    "Country": "Poland",
+    "Males": 806,
+    "Females": 98,
+    "Ratio_of_female_devs_percentage": 10.8407
+  },
+  {
+    "Country": "India",
+    "Males": 2422,
+    "Females": 230,
+    "Ratio_of_female_devs_percentage": 8.6727
+  },
+  {
+    "Country": "Switzerland",
+    "Males": 398,
+    "Females": 13,
+    "Ratio_of_female_devs_percentage": 3.163
+  },
+  {
+    "Country": "Italy",
+    "Males": 515,
+    "Females": 16,
+    "Ratio_of_female_devs_percentage": 3.0132
+  },
+  {
+    "Country": "Russian Federation",
+    "Males": 542,
+    "Females": 31,
+    "Ratio_of_female_devs_percentage": 5.4101
+  },
+  {
+    "Country": "Pakistan",
+    "Males": 231,
+    "Females": 15,
+    "Ratio_of_female_devs_percentage": 6.0976
+  },
+  {
+    "Country": "Iran",
+    "Males": 260,
+    "Females": 13,
+    "Ratio_of_female_devs_percentage": 4.7619
+  },
+  {
+    "Country": "Germany",
+    "Males": 2740,
+    "Females": 153,
+    "Ratio_of_female_devs_percentage": 5.2886
+  },
+  {
+    "Country": "Austria",
+    "Males": 322,
+    "Females": 23,
+    "Ratio_of_female_devs_percentage": 6.6667
+  },
+  {
+    "Country": "Sweden",
+    "Males": 418,
+    "Females": 18,
+    "Ratio_of_female_devs_percentage": 4.1284
+  }
+]
